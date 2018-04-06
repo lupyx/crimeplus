@@ -1,0 +1,2 @@
+-- General CrimePlus configuration file
+

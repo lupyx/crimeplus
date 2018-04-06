@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"CrimePlus"
+	"version"			"1.0"
+	"up_date"			""
+	"author_name"			"Lupix"
+	"author_email"			"tanguyndd@gmail.com"
+	"author_url"			"lupix.be"
+	"info"				""
+	"override"			"0"
+}
